@@ -34,7 +34,16 @@
         <android.support.v4.view.ViewPager
             android:id="@+id/viewPager"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"/>
+            android:layout_height="match_parent" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/actionFloatingButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|bottom"
+            android:layout_marginBottom="@dimen/margin_16"
+            android:layout_marginRight="@dimen/margin_16"
+            android:src="@mipmap/ic_plus" />
 
     </android.support.design.widget.CoordinatorLayout>
 

@@ -2,7 +2,12 @@
     <string name="app_name">RemindMe Beta</string>
     <string name="search_title">Search</string>
     <string name="menu_item">Notification</string>
-    <string name="appBar_scrolling_view_behavior">Some text</string>
     <string name="navigation_open">Open</string>
     <string name="navigation_close">Close</string>
+
+    <!-- Tabs-->
+    <string name="tab_history">History</string>
+    <string name="tab_ideas">Ideas</string>
+    <string name="tab_todo">TODO</string>
+    <string name="tab_birthdays">Birthdays</string>
 </resources>
